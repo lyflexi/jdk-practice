@@ -7,4 +7,4 @@
 - alibabaTTL vs ThreadLocal 
 
 思维导图：
-![juc.jpg](./pic/juc.jpg)
+![juc.jpg](../pic/juc.jpg)
